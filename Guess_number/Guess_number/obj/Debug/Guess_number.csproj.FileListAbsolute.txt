@@ -1,0 +1,7 @@
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\bin\Debug\Guess_number.exe.config
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\bin\Debug\Guess_number.exe
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\bin\Debug\Guess_number.pdb
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\obj\Debug\Guess_number.csprojAssemblyReference.cache
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\obj\Debug\Guess_number.csproj.CoreCompileInputs.cache
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\obj\Debug\Guess_number.exe
+C:\Users\Anna_Kuzina1\source\repos\Guess_number\Guess_number\obj\Debug\Guess_number.pdb
